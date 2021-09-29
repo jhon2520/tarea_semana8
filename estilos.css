@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.border{
+    border: 2px solid gray;
+    width: 70%;
+    
+}
+.letra-verde{
+    color: teal;
+}
+.letra-roja{
+    color: red;
+}
+.letra-azul{
+    color: blue;
+}
+.letra-cafe{
+    color: brown;
+}
+.color-rosa{
+    color: violet;
+}
+
+
+div{
+    margin: 20px 0;
+}
+.main{
+    padding: 60px;
+    margin: 60px;
+    width: 80vw;
+}
